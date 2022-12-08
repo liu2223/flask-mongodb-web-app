@@ -1,5 +1,3 @@
-# Flask-MongoDB Web App
+# Cinema Management System
+The app I developed is a cinema management system for cinema managers. The movie in this system include the name, star-rating and type of moives, and managers can CRUD movie items. The system is developed based on the Flask-MongoDB Web App(https://github.com/dbdesign-students-fall2022/flask-mongodb-web-app). The app is rendered by Bootstrap(https://getbootstrap.com/).
 
-In this assignment you will create a web app that relies upon a MongoDB database.
-
-Replace the contents of this file with a description of your own web app, as described in [the instructions](./instructions.md).

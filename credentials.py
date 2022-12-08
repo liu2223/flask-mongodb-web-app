@@ -23,3 +23,9 @@ def get():
             key, value = setting
             config[key] = value
     return config
+
+MONGO_HOST=localshost
+MONGO_USER=dl4265
+MONGO_PASSWORD=Dcd9naix
+MONGO_DBNAME=dbdesign
+FLASK_ENV=development
